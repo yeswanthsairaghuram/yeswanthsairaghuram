@@ -1,71 +1,122 @@
-<h1 align="center">Hi 👋, I'm P Yeswanth Sai Raghuram</h1>
-<h3 align="center">A passionate Full Stack Developer & Tech Enthusiast</h3>
+<h1 align="center">
+  Hi <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" alt="wave" width="40" /> I'm Yeswanth Sai Raghuram
+</h1>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=100&center=true&vCenter=true&width=435&lines=Problem+Solver;Frontend+Web+Developer;ServiceNow+Developer;Always+Learning+New+Tech!" alt="Typing SVG" />
+</div>
+
+---
+
+## 📌 About Me
+
+🎓 B.Tech IT student at Aditya Engineering College  
+💻 Passionate about problem-solving, web development, and ServiceNow  
+🌐 Skilled in Java, Python, C++, SQL, HTML, CSS, JavaScript, React, ServiceNow  
+🧠 Strong understanding of OS, CN, DBMS, DSA, and OOPs  
+🛠️ Experienced with Git & GitHub version control  
+
+---
+
+## 🛠️ Skills & Tools
+
+### 🚀 Programming Languages
+`C++` • `Java` • `Python` • `C`
+
+### 🌐 Web Technologies
+`HTML` • `CSS` • `JavaScript` • `React` • `Node Js` • `Express Js`
+
+### 🧰 Tools & Platforms
+`VS Code` • `Git` • `GitHub` • `Vercel` • `ServiceNow` 
+
+### 🗄️ Databases
+`SQL` • `Oracle SQL`
+
+### 💡 Core Computer Science
+`OOP` • `DSA` • `DBMS` • `Operating Systems` • `Computer Networks` • `Software Engineering`
+
+---
+
+## 💼 Experience
+
+### 🌐 Full Stack development – Technical Hub  *(May 2025 – June 2025)*  
+- Designed and developed responsive web interfaces using HTML&CSS, JavaScript, React, Node Js  
+- Focused on cross-browser compatibility and mobile responsiveness to enhance user experience  
+- Gained hands-on experience in debugging, UI/UX improvement, and real-world project deployment  
 
 
 ---
 
-## 👨‍💻 About Me
-- 🔭 Currently working on **Lost & Found Web App**, **PowerX Fitness App**, **Fresh On Wheels**, and **ServiceNow Integrations**.
-- 👯 Looking to collaborate on **Open Source Projects** and **Full Stack Applications**.
-- 💬 Ask me about **React, Node.js, Express, MongoDB, Java, and ServiceNow**.
-- 📫 Reach me at **yaswanthsairaghuram@gmail.com**.
-- ⚡ Fun fact: I believe in **"Code. Debug. Repeat. Learn."**
-
----
-
-## 🛠️ Tech Stack
-
-### 🚀 Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
-### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-
-### 🖥️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### ☁️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-%2300A3E0.svg?style=for-the-badge&logo=servicenow&logoColor=white)
-
----
-
-
----
-
-## 🚀 My Projects
+## 🌟 Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **🎒 Lost & Found Website** | A web app for managing and reporting lost items in colleges. | React, Node.js, Express, MongoDB |
 | **📝 PowerX** | A data-driven fitness platform with diet logging, calorie tracking, AI-driven exercise recommendations, optimized backend APIs by 50%, and responsive UI with 45% faster load times. | React, Node.js, Express, MongoDB |
 | **📧 Fresh On Wheels** | A food ordering app with a responsive menu, real-time cart, secure Stripe payments, and admin panel for product, order, and user management with 50% faster API performance. | React, Node.js, Express, Stripe API, MongoDB |
-| **🌐 Portfolio Website** | Personal portfolio showcasing my projects and skills. | HTML, CSS, JavaScript |
+
 
 ---
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/yeswanth-pydeti/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:yaswanthsairaghuram@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+## 📜 Certifications
+
+- ✅ **IT Specialist (HTML & CSS, Python, Java)** – *Pearson VUE*
+- 🎩 **System Administrator (RHCSA)** – *Red Hat*
+- 🛠️ **System Administrator(CSA) and Application Developer(CAD)** – *ServiceNow*
+
 
 ---
 
-<p align="center">✨ Passionate about learning, building, and growing! ✨</p>
+
+## 🔗 Coding & Social Profiles
+
+### 👨‍💻 Coding Platforms  
+<a href="https://leetcode.com/u/yeswanthsairaghuram/" target="_blank">LeetCode</a> • 
+<a href="https://www.hackerrank.com/profile/22A91A12B4" target="_blank">HackerRank</a> • 
+<a href="https://www.codechef.com/users/raghurampydeti" target="_blank">CodeChef</a>
+
+### 🌐 Social & Professional  
+<a href="https://yeswanth.vercel.app/" target="_blank">Portfolio</a> • 
+<a href="https://www.linkedin.com/in/yeswanth-pydeti/" target="_blank">LinkedIn</a> • 
+<a href="https://github.com/yeswanthsairaghuram" target="_blank">GitHub</a> • 
+
+---
+
+## 📞 Contact Me
+
+- 📧 Email: [yaswanthsairaghuram@gmail.com](mailto:yaswanthsairaghuram@gmail.com)  
+- 📱 Phone: [+91-9381249993](tel:+919381249993)  
+- 💬 WhatsApp: [+91-9381249993](https://wa.me/919381249993)  
+- 📍 Address: Vegiwada, Andhra Pradesh, India – Pin: 534452
+
+---
+
+
+## 📊 Stats & Activity
+
+### 💡 LeetCode Stats  
+[![Ayyappa's LeetCode Stats](https://leetcard.jacoblin.cool/yeswanthsairaghuram?ext=contest)](https://leetcode.com/yeswanthsairaghuram)
+
+
+---
+
+
+### 📈 GitHub Stats  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeswanthsairaghurami&show_icons=true&theme=default)](https://github.com/yeswanthsairaghuram)
+
+### 🔥 Contribution Streak  
+[![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=yeswanthsairaghuram&theme=light&hide_border=false)](https://github.com/yeswanthsairaghuram)
+
+### 📚 Top Languages  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=yeswanthsairaghuram&layout=compact)](https://github.com/yeswanthsairaghuram)
+
+
+### 🏆 GitHub Trophies  
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yeswanthsairaghuram)](https://github.com/yeswanthsairaghuram)
+
+
+### 📈 Contribution Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yeswanthsairaghuram&theme=github)](https://github.com/yeswanthsairaghuram)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yeswanthsairaghuram&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
