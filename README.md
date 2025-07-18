@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=100&center=true&vCenter=true&width=435&lines=Problem+Solver;Frontend+Web+Developer;ServiceNow+Developer;Always+Learning+New+Tech!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=100&center=true&vCenter=true&width=500&lines=Problem+Solver;Frontend+Web+Developer;Backend+Developer;Full+Stack+Developer;MERN+Stack+Developer;ServiceNow+Developer;Always+Learning+New+Tech!" alt="Typing SVG" />
 </div>
 
 ---
@@ -30,7 +30,7 @@
 `VS Code` • `Git` • `GitHub` • `Vercel` • `ServiceNow` 
 
 ### 🗄️ Databases
-`SQL` • `Oracle SQL`
+`SQL` • `MongoDB`
 
 ### 💡 Core Computer Science
 `OOP` • `DSA` • `DBMS` • `Operating Systems` • `Computer Networks` • `Software Engineering`
@@ -39,7 +39,7 @@
 
 ## 💼 Experience
 
-### 🌐 Full Stack development – Technical Hub  *(May 2025 – June 2025)*  
+### 🌐 Full Stack developer – Technical Hub  *(May 2025 – June 2025)*  
 - Designed and developed responsive web interfaces using HTML&CSS, JavaScript, React, Node Js  
 - Focused on cross-browser compatibility and mobile responsiveness to enhance user experience  
 - Gained hands-on experience in debugging, UI/UX improvement, and real-world project deployment  
@@ -60,9 +60,10 @@
 
 ## 📜 Certifications
 
-- ✅ **IT Specialist (HTML & CSS, Python, Java)** – *Pearson VUE*
+- ✅ **IT Specialist (HTML & CSS, Python, Java, Javascript)** – *Pearson VUE*
 - 🎩 **System Administrator (RHCSA)** – *Red Hat*
 - 🛠️ **System Administrator(CSA) and Application Developer(CAD)** – *ServiceNow*
+- 🗄️ **Oracle Database Foundations**  - *Oracle*
 
 
 ---
@@ -95,14 +96,14 @@
 ## 📊 Stats & Activity
 
 ### 💡 LeetCode Stats  
-[![Ayyappa's LeetCode Stats](https://leetcard.jacoblin.cool/yeswanthsairaghuram?ext=contest)](https://leetcode.com/yeswanthsairaghuram)
+[![Yeswanth's LeetCode Stats](https://leetcard.jacoblin.cool/yeswanthsairaghuram?ext=contest)](https://leetcode.com/yeswanthsairaghuram)
 
 
 ---
 
 
 ### 📈 GitHub Stats  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeswanthsairaghurami&show_icons=true&theme=default)](https://github.com/yeswanthsairaghuram)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeswanthsairaghuram&show_icons=true&theme=default)](https://github.com/yeswanthsairaghuram)
 
 ### 🔥 Contribution Streak  
 [![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=yeswanthsairaghuram&theme=light&hide_border=false)](https://github.com/yeswanthsairaghuram)
