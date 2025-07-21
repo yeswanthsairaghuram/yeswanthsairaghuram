@@ -120,4 +120,4 @@
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yeswanthsairaghuram&theme=github)](https://github.com/yeswanthsairaghuram)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yeswanthsairaghuram &label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yeswanthsairaghuram&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
