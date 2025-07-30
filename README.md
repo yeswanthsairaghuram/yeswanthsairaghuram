@@ -12,7 +12,7 @@
 
 🎓 B.Tech IT student at Aditya Engineering College  
 💻 Passionate about problem-solving, web development, and ServiceNow  
-🌐 Skilled in Java, Python, C++, SQL, HTML, CSS, JavaScript, React, ServiceNow  
+🌐 Skilled in  C++, Java, SQL, HTML, CSS, JavaScript, React, ServiceNow  
 🧠 Strong understanding of OS, CN, DBMS, DSA, and OOPs  
 🛠️ Experienced with Git & GitHub version control  
 
@@ -79,7 +79,7 @@
 ### 🌐 Social & Professional  
 <a href="https://yeswanth.vercel.app/" target="_blank">Portfolio</a> • 
 <a href="https://www.linkedin.com/in/yeswanth-pydeti/" target="_blank">LinkedIn</a> • 
-<a href="https://github.com/yeswanthsairaghuram" target="_blank">GitHub</a> • 
+<a href="https://github.com/yeswanthsairaghuram" target="_blank">GitHub</a>  
 
 ---
 
