@@ -106,7 +106,8 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeswanthsairaghuram&show_icons=true&theme=default)](https://github.com/yeswanthsairaghuram)
 
 ### 🔥 Contribution Streak  
-[![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=yeswanthsairaghuram&theme=light&hide_border=false)](https://github.com/yeswanthsairaghuram)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yeswanthsairaghuram&theme=radical)](https://git.io/streak-stats)
+
 
 ### 📚 Top Languages  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=yeswanthsairaghuram&layout=compact)](https://github.com/yeswanthsairaghuram)
@@ -118,6 +119,8 @@
 
 ### 📈 Contribution Graph
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yeswanthsairaghuram&theme=github)](https://github.com/yeswanthsairaghuram)
+
+
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yeswanthsairaghuram&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
