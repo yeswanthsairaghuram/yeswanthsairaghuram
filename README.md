@@ -103,7 +103,7 @@
 
 
 ### 📈 GitHub Stats  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeswanthsairaghuram&show_icons=true&theme=default)](https://github.com/yeswanthsairaghuram)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeswanthsairaghuram&show_icons=true&theme=radical)](https://github.com/yeswanthsairaghuram)
 
 ### 🔥 Contribution Streak  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yeswanthsairaghuram&theme=radical)](https://git.io/streak-stats)
