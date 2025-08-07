@@ -106,15 +106,12 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeswanthsairaghuram&show_icons=true&theme=radical)](https://github.com/yeswanthsairaghuram)
 
 ### 🔥 Contribution Streak  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yeswanthsairaghuram&theme=radical)](https://git.io/streak-stats)
+[![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=yeswanthsairaghuram&theme=light&hide_border=false)](https://github.com/yeswanthsairaghuram)
 
 
 ### 📚 Top Languages  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=yeswanthsairaghuram&layout=compact)](https://github.com/yeswanthsairaghuram)
 
-
-### 🏆 GitHub Trophies  
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yeswanthsairaghuram)](https://github.com/yeswanthsairaghuram)
 
 
 ### 📈 Contribution Graph
