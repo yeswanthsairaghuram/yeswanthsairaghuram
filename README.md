@@ -106,7 +106,7 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeswanthsairaghuram&show_icons=true&theme=radical)](https://github.com/yeswanthsairaghuram)
 
 ### 🔥 Contribution Streak  
-[![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=yeswanthsairaghuram&theme=light&hide_border=false)](https://github.com/yeswanthsairaghuram)
+[![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=yeswanthsairaghuram&theme=radical&hide_border=false)](https://github.com/yeswanthsairaghuram)
 
 
 ### 📚 Top Languages  
