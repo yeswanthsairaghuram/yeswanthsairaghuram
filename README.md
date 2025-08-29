@@ -77,7 +77,7 @@
 <a href="https://www.codechef.com/users/raghurampydeti" target="_blank">CodeChef</a>
 
 ### 🌐 Social & Professional  
-<a href="https://yeswanth.vercel.app/" target="_blank">Portfolio</a> • 
+<a href="https://pydetiyeswanth.vercel.app/" target="_blank">Portfolio</a> • 
 <a href="https://www.linkedin.com/in/yeswanth-pydeti/" target="_blank">LinkedIn</a> • 
 <a href="https://github.com/yeswanthsairaghuram" target="_blank">GitHub</a>  
 
