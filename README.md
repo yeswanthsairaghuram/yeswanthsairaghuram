@@ -114,8 +114,7 @@
 
 
 
-### 📈 Contribution Graph
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yeswanthsairaghuram&theme=github)](https://github.com/yeswanthsairaghuram)
+
 
 
 
